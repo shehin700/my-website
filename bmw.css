@@ -1,0 +1,93 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.book{
+    width: 44%;
+    font-size: 200%;
+}
+.sub{
+    width: 91%;
+    font-size: 18px;
+}
+.third{
+    margin-left: 16%;
+    margin-top: 3%;
+}
+#mr{
+    width: 15%;
+    height: 10%;
+}
+#firstname{
+    width: 99%;
+    
+}
+#lastname{
+    width: 99%;
+}
+#email{
+    width: 99%;
+}
+.formfirst{
+    display: flex;
+    justify-content: row;
+    gap: 2rem;
+    margin-left: 16%;
+}
+#number{
+    width: 111%;
+}
+#cars{
+    width: 20%;
+    height: 10%;
+}
+#city{
+    width: 20%;
+    height: 10%;
+}
+.secondform{
+    display: flex;
+    gap: 3rem;
+    margin-left: 16%;
+}
+ol{
+    list-style-type: none;
+    display: flex;
+    gap: 2rem;
+    color: lightblue;
+
+}
+#firstcheck{
+ margin-left: 16%;
+}
+#secondcheck{
+ margin-left: 16% ;
+}
+.fifth{
+    margin-top: 2%;
+}
+li{
+    font-size: 126%;
+}
+#but{
+    margin-left: 16%;
+    width: 10%;
+    margin-top: 2%;
+}
+.fourth{
+    margin-top: 4%;
+}
+.six{
+    margin-left: 16%;
+    font-size: 85%;
+    margin-top: 5%;
+
+}
+.ag{
+    margin-left: 6%;
+}
+.last{
+    display: flex;
+    justify-content: space-around;
+}
